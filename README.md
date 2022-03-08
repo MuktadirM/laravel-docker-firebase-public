@@ -11,6 +11,8 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
 
+- Grpc and protobuf configured it will be auto install during build
+
 ## Prerequisite 
 - Install Docker [Docker](https://docs.docker.com/get-docker/)
 - Statble internet connection
