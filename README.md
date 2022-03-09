@@ -15,7 +15,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ## Prerequisite 
 - Install Docker [Docker](https://docs.docker.com/get-docker/)
-- Statble internet connection
+- Stable internet connection
 ### How to Run this Application?
 - Clone repository ```git clone https://github.com/MuktadirM/laravel-docker-firebase.git```
 - Run ```composer install or composer update```
